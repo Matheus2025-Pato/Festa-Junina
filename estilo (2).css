@@ -1,0 +1,26 @@
+.Main{
+ Background-color: #fe9d3c;
+  Text-Align: center; 
+}
+
+#title{
+  Background-color: #fb2828;
+  color: white;
+}
+#ParaTxt{
+  color: white;
+}
+#hpLink{
+  color: lightblue;
+}
+#mainTab{
+  Margin: auto;
+  color: white;
+  Background-color: #fb2828;
+  border-radius: 10px;
+  border-color: red;
+}
+#End{
+  color: white;
+  Background-color: #fb2828;
+}
